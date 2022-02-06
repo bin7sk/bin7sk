@@ -1,5 +1,5 @@
 
-- What i know:<br>
+- What I know:<br>
 Python3( + PySide2)<br>
 C/C++<br>
 
